@@ -1,6 +1,6 @@
 /* Authors: (i)	Nehal J Wani 201125005	nehal.wani@students.iiit.ac.in
 	   (ii)	Mayank Gupta 201101004	mayank.gupta@students.iiit.ac.in
-  TFTP Application Layer Service
+  TFTP(Trival File Transfer Protocol) Application Layer Service
 */
 #include <sys/types.h>
 #include <sys/stat.h>
