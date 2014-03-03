@@ -1,4 +1,4 @@
-Simulation of the working of a TFTP
+TFTP(Trivial File Transfer Protocol) Server
 
 The program can run as a Server.
 ./Assignment portnumber1
