@@ -1,10 +1,13 @@
 Simulation of the working of a TFTP
 
-The program can run as a Client as well as server.
+The program can run as a Server.
+./Assignment portnumber1
 
-./Assignment
+The program can run as a Client.
+./Assignment portnumber2
 
-To Connect, type the command: CONNECT ip:port
+for connecting client to server, type the following command in client console: 
+CONNECT ip.of.server portnumber.of.server
 
 The file sharing protocoli mplements the following features:
 
