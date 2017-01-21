@@ -1,5 +1,5 @@
 /* Authors: (i)	Nehal J Wani 201125005	nehal.wani@students.iiit.ac.in
-	   (ii)	Mayank Gupta 201101004	mayank.gupta@students.iiit.ac.in
+	   (ii)	Mayank Gupta 201101004	mayank.g@students.iiit.ac.in
   TFTP Application Layer Service
 */
 #include <sys/types.h>
